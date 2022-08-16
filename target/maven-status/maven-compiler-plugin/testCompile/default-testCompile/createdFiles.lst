@@ -1,0 +1,5 @@
+steps\LoginTest.class
+steps\BillPayTest.class
+ParaBankWebsite\ParaBankWebsite\AppTest.class
+steps\Hooks.class
+runner\TestRunner.class
